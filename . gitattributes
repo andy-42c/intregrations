@@ -4,7 +4,8 @@
 *.gitattributes text
 .gitignore      text
 *.md            text diff=markdown
-
+*.json linguist-detectable
+*.yaml linguist-detectable
 #
 # Exclude files from exporting
 #
