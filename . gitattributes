@@ -1,4 +1,4 @@
 # Linguist Overrides
-*.json linguist-detectable=true
-*.yaml linguist-detectable=OASv3
+#*.json linguist-detectable=true
+#*.yaml linguist-detectable=OASv3
 *.test linguist-language=Java
