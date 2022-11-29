@@ -1,5 +1,5 @@
 # Linguist Overrides
-*.json linguist-detectable
+*.json linguist-detectable=true
 *.yaml linguist-detectable=true
 *.md linguist-vendored=false
 *.md linguist-generated=false
