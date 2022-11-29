@@ -1,7 +1,4 @@
 # Linguist Overrides
 *.json linguist-detectable=true
-*.yaml linguist-detectable=true
-*.md linguist-vendored=false
-*.md linguist-generated=false
-*.md linguist-documentation=false
-*.md linguist-detectable=true
+*.yaml linguist-detectable=OASv3
+*.test linguist-language=Java
