@@ -1,4 +1,2 @@
 # Check for OAS
-#*.json linguist-detectable
-*.json linguist-detectable=true
-*.yaml linguist-detectable=true
+*.json linguist-detectable
